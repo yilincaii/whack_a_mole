@@ -1,5 +1,5 @@
 //
-// Created by Dave R. Smith on 4/17/23.
+// Created by Yilin on 4/17/23.
 //
 
 #ifndef SIMON_APPLICATION_H
